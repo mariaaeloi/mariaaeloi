@@ -15,7 +15,7 @@
   
 <p align="right">
 &nbsp; <a href="https://www.instagram.com/mariaeloii/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/davi-perdig%C3%A3o-5292051b7//" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/mariaangelaeloi/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" /></a>
 </p>
 
  ![Snake animation](https://github.com/mariaaeloi/mariaaeloi/blob/output/github-contribution-grid-snake.svg)
